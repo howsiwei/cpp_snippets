@@ -1,0 +1,6 @@
+Checks: >
+  *,
+  -cert-oop54-cpp,
+  -fuchsia-trailing-return,
+  -google-runtime-references,
+  -modernize-use-trailing-return-type,

@@ -1,0 +1,4 @@
+-std=c++2a
+-Weverything
+-Wno-c++98-compat
+-Wno-missing-prototypes
